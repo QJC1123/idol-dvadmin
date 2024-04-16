@@ -7,7 +7,6 @@
 
 ## 平台简介
 
-
 Fanstar追星服务平台，前端采用vue框架，后端采用django框架，实现一个个人idol的管理网站，进行偶像信息的管理。项目授权软件著作权1项。
 
 平台目前已经实现登录、首页推荐、偶像搜索、作品总库、偶像档案、收藏中心、个人账号等功能模块。
@@ -117,24 +116,6 @@ Fanstar追星服务平台，前端采用vue框架，后端采用django框架，�
             <div class="caption">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综艺集</div>
         </td>
     </tr>
-    <tr>
-        <td>收藏中心</td>
-        <td>
-            <img src="img/14.png"/>
-            <div class="caption">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;实时监控</div>
-        </td>
-    </tr>
-    <tr>
-        <td>个人信息</td>
-        <td>
-            <img src="img/15.png"/>
-            <div class="caption">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;告警列表</div>
-        </td>
-        <td>
-            <img src="img/16.png"/>
-            <div class="caption">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;详情面板</div>
-        </td>
-    </tr>
      <tr>
         <td>偶像档案</td>
         <td>
@@ -155,6 +136,24 @@ Fanstar追星服务平台，前端采用vue框架，后端采用django框架，�
         <td>
             <img src="img/12.png"/>
             <div class="caption">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;粉丝画像</div>
+        </td>
+    </tr>
+    <tr>
+        <td>收藏中心</td>
+        <td>
+            <img src="img/14.png"/>
+            <div class="caption">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;实时监控</div>
+        </td>
+    </tr>
+    <tr>
+        <td>个人信息</td>
+        <td>
+            <img src="img/15.png"/>
+            <div class="caption">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;告警列表</div>
+        </td>
+        <td>
+            <img src="img/16.png"/>
+            <div class="caption">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;详情面板</div>
         </td>
     </tr>
 </table>
