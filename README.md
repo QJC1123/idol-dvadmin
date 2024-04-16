@@ -165,7 +165,7 @@ Fanstar追星服务平台，前端采用vue框架，后端采用django框架，�
         <td>个人信息</td>
         <td>
             <img src="img/15.png"/>
-            <div class="caption">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;个人信息</div>
+            <div class="caption">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;用户设置</div>
         </td>
         <td>
             <img src="img/16.png"/>
