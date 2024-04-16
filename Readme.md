@@ -163,17 +163,17 @@ Fanstar追星服务平台，前端采用vue框架，后端采用django框架，�
 
 
 ## 开发
-        # 克隆项目
-        git clone https://github.com/QJC1123/idol-dvadmin
+    # 克隆项目
+    git clone https://github.com/QJC1123/idol-dvadmin
 
-        # 进入项目目录
-        cd idol-dvadmin
+    # 进入项目目录
+    cd idol-dvadmin
 
-        # 安装依赖
-        npm install
+    # 安装依赖
+    npm install
 
-        # 启动服务
-        npm run dev
+    # 启动服务
+    npm run dev
 
 
 
